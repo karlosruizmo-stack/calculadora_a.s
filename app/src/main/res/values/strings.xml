@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="titulo">Calculadora de IMC</string>
+    <string name="hint_peso">Peso (kg)</string>
+    <string name="hint_altura">Altura</string>
+    <string name="unidad_altura">Unidad de la altura:</string>
+    <string name="rb_metros">Metros</string>
+    <string name="rb_centimetros">Centímetros</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="resultado_inicial">El resultado aparecerá aquí</string>
+
+    <string name="error_vacio">Este campo no puede estar vacío</string>
+    <string name="error_numero">Introduce un número válido</string>
+    <string name="error_peso">El peso debe ser mayor que 0</string>
+    <string name="error_altura">La altura debe ser mayor que 0</string>
+
+    <string name="cat_bajo">Bajo peso</string>
+    <string name="cat_normal">Peso normal</string>
+    <string name="cat_sobrepeso">Sobrepeso</string>
+    <string name="cat_obesidad">Obesidad</string>
+
+    <string name="resultado_formato">Tu IMC es %1$s kg/m² (%2$s)</string>
+</resources>
